@@ -12,7 +12,7 @@ presskit_download_link                    :
 app_icon                                  : assets/appicon.png                        
 app_name                                  : Superate                                          
 app_price                                 :                                           
-app_description                           : Superate automagically turns your text and visuals into stunning designs
+app_description                           : Superate automagically turns your text and visuals into stunning designs. Create beautiful video stories, social media posts, flyers and more in seconds.
 
 enable_smart_app_banner                   : true                                      
 
@@ -38,41 +38,25 @@ features                                  :
     description                           : Just provide your text, photos or videos to the app and it will generate a list of different designs automatically.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Intelligent layout & recommendations 
+    description                           : Superate will list yo uthe best color and font combinations that will suit your creation. You also won't have to manually adjust positioning or gaps between design elements.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Ready to Use Templates
+    description                           : Ran out of ideas? Browse our library featuring hundreds of beautifully crafted templates.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Add your brand logo
+    description                           : Mark your creations with your company logo and ensure consistency in your social media content and alignment to your style.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Easy to Customize
+    description                           : Tweak colors, images, animations any way you like. 
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : High Quality Exports
+    description                           : The app adjusts the resolutions of your image and video outputs automatically depending on the needs of the social media platform you choose to export to.
     fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
