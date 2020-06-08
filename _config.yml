@@ -38,20 +38,20 @@ features                                  :
     description                           : Just provide your text, photos or videos to the app and it will generate a list of different designs automatically.
     fontawesome_icon_name                 : magic
     
-  - title                                 : Intelligent layout & recommendations 
-    description                           : Superate will list yo uthe best color and font combinations that will suit your creation. You also won't have to manually adjust positioning or gaps between design elements.
+  - title                                 : Intelligent Recommendations 
+    description                           : The app will list you the best color & font combinations that will suit your creation. 
     fontawesome_icon_name                 : mobile
 
   - title                                 : Ready to Use Templates
-    description                           : Ran out of ideas? Browse our library featuring hundreds of beautifully crafted templates.
+    description                           : Ran out of ideas? Browse our library featuring hundreds of beautifully crafted templates in different categories.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Add your brand logo
+  - title                                 : Add Your Brand Logo
     description                           : Mark your creations with your company logo and ensure consistency in your social media content and alignment to your style.
     fontawesome_icon_name                 : sync
 
   - title                                 : Easy to Customize
-    description                           : Tweak colors, images, animations any way you like. 
+    description                           : Tweak colors, images, animations any way you like. Editing is super easy thanks to the intelligent layout engine.
     fontawesome_icon_name                 : adjust
   
   - title                                 : High Quality Exports
